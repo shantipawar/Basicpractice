@@ -1,0 +1,9 @@
+127.0.0.1 - - [08/Dec/2023:10:18:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Dec/2023:10:18:12 +0530] "GET /SpringRestProj03-SendingResponseDataAsResponse/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [08/Dec/2023:10:18:12 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Dec/2023:10:18:27 +0530] "GET /SpringRestProj03-SendingResponseDataAsResponse/report HTTP/1.1" 200 57
+127.0.0.1 - - [08/Dec/2023:16:43:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Dec/2023:16:43:51 +0530] "GET /SpringRestProj04-SendingComplexJSONDataAsResponse/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [08/Dec/2023:16:43:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Dec/2023:16:44:02 +0530] "GET /SpringRestProj04-SendingComplexJSONDataAsResponse/report1 HTTP/1.1" 200 286
+0:0:0:0:0:0:0:1 - - [08/Dec/2023:16:51:32 +0530] "GET /SpringRestProj04-SendingComplexJSONDataAsResponse/report1 HTTP/1.1" 200 286
